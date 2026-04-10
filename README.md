@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido para a disciplina de **Introdução à Computação Gráfica** e tem como objetivo renderizar a silhueta de um **decágono regular (10 lados)** em uma matriz de pixels de **800 x 800**.
+Este projeto foi desenvolvido para a disciplina de **Introdução à Computação Gráfica** (C#) e tem como objetivo renderizar a silhueta de um **decágono regular (10 lados)** em uma matriz de pixels de **800 x 800**.
 
 Diferente da abordagem tradicional (desenhando linhas entre vértices), aqui utilizamos um método **estocástico baseado em Monte Carlo**, onde pontos são gerados aleatoriamente e testados matematicamente para verificar se pertencem à área interna do polígono.
 
